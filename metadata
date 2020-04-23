@@ -1,0 +1,7 @@
+ota-required-cache=0
+ota-streaming-property-files=payload.bin:1199:1054544075,payload_properties.txt:1054545332:155,care_map.txt:478:674,metadata:69:361         
+ota-type=AB
+post-build=xiaomi/tissot/tissot_sprout:8.1.0/OPM1.171019.026/V9.6.8.0.ODHMIFE:user/release-keys
+post-build-incremental=V9.6.8.0.ODHMIFE
+post-timestamp=1540993882
+pre-device=tissot_sprout

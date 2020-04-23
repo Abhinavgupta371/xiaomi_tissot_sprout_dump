@@ -1,0 +1,19 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: S2Q/tapSZBgg5njFPqkOr74hgXU=
+Created-By: 1.0 (Android SignApk)
+
+Name: META-INF/com/android/otacert
+SHA1-Digest: q94I3Fg4llyH6eUm7p7l3xLQHWg=
+
+Name: META-INF/com/android/metadata
+SHA1-Digest: qjLqYctV3bY/SYaWeKEb1xGo228=
+
+Name: payload_properties.txt
+SHA1-Digest: PlQ3VoOdSr+9GJg7nXGy3FG6XTc=
+
+Name: care_map.txt
+SHA1-Digest: 24LcY4AZp1Q6hyBp+Zoyq0kKClc=
+
+Name: payload.bin
+SHA1-Digest: 1LOaOsnF+hvxBBlXTNK20lsCYoQ=
+
